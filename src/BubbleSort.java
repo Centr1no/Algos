@@ -5,6 +5,7 @@ public class BubbleSort {
         int storage = 0;
 
         //algorithm added here
+        //another comment
 
         while (isSort != true) {
             for (int i = 0; i < array.length-1; i++) {
